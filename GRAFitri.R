@@ -1,4 +1,4 @@
-# Author: Aaron Robotha as part of magicaxis package.
+# Author: Aaron Robotham as part of magicaxis package.
 # Modified by : Hosein Hashemi as part of GRAFit package.
 
 GRAFitri <- function (chains, samples, samptype = "end", grid = FALSE, tick = FALSE) 
